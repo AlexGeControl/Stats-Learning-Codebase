@@ -1,0 +1,96 @@
+[I 11:05:34.026 NotebookApp] The port 8888 is already in use, trying another port.
+[I 11:05:34.026 NotebookApp] The port 8889 is already in use, trying another port.
+[I 11:05:34.031 NotebookApp] Serving notebooks from local directory: /home/alexge/Workspace/Distributed-System/Spark/01-ML-theory/02-machine-learning/edx-workspace/02-Bayesian-Classifier
+[I 11:05:34.031 NotebookApp] 0 active kernels 
+[I 11:05:34.031 NotebookApp] The Jupyter Notebook is running at: http://localhost:8890/?token=b08255781d6107845ca1019df46890f0aedfbd82b0270d53
+[I 11:05:34.031 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:05:34.032 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8890/?token=b08255781d6107845ca1019df46890f0aedfbd82b0270d53
+Created new window in existing browser session.
+[I 11:05:34.371 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[I 11:05:39.263 NotebookApp] Creating new notebook in 
+[W 11:05:39.755 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170406110533 (127.0.0.1) 5.63ms referer=http://localhost:8890/notebooks/Untitled.ipynb?kernel_name=python2
+[I 11:05:39.816 NotebookApp] Kernel started: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 11:07:39.963 NotebookApp] Saving file at /02-Bayesian-Classifer.ipynb
+[I 11:09:42.437 NotebookApp] Saving file at /02-Bayesian-Classifer.ipynb
+[I 11:09:45.348 NotebookApp] Saving file at /02-Bayesian-Classifer.ipynb
+[I 11:11:39.962 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:13:39.809 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:15:39.808 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:17:39.808 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:21:39.810 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:24:46.805 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:25:39.808 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:26:58.909 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:27:39.811 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:28:04.134 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 11:29:39.961 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:32:54.136 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:32:58.641 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:33:39.809 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:37:39.807 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:38:03.634 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 11:38:34.438 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 11:39:39.809 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:23:39.818 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:24:24.418 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 13:25:39.813 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:27:39.828 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:29:39.823 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:30:46.595 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 13:31:39.822 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:33:39.830 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:34:47.426 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 13:35:39.971 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:41:39.818 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:43:29.655 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:43:34.124 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 13:43:39.824 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:43:48.883 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:43:52.029 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 13:44:25.716 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:44:30.341 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:44:33.471 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 13:44:55.470 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 13:45:01.023 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 13:45:06.039 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 13:45:39.819 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:46:18.159 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:47:39.822 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:47:43.776 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 13:49:39.976 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 13:53:39.974 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:01:17.090 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:01:23.563 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 14:01:39.820 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:03:39.821 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:05:37.776 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:07:39.815 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:11:39.819 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:13:20.453 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:13:39.820 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:15:39.976 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:17:39.822 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:21:39.974 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:23:39.979 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:25:39.820 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:27:39.820 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:29:39.821 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:31:39.827 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:33:39.827 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:35:39.820 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:36:11.672 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 14:36:22.532 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 14:37:39.985 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:39:39.834 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:41:39.821 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:41:50.418 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:42:52.314 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 14:43:35.675 NotebookApp] Kernel restarted: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[I 14:43:39.824 NotebookApp] Saving file at /02-Bayesian-Classifier.ipynb
+[I 16:25:52.040 NotebookApp] Kernel shutdown: ed637997-da3c-48a1-99ca-a43b32b93b4d
+[C 16:26:49.019 NotebookApp] received signal 15, stopping
+[I 16:26:49.020 NotebookApp] Shutting down kernels
