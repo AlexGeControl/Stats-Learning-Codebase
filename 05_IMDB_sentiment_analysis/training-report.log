@@ -1,0 +1,114 @@
+[Process Training Set]: ...
+[Process Training Set]: Done.
+[Process Testing Set]: ...
+[Process Testing Set]: Done.
+[Lemmatization]: ...
+[Lemmatization]: Done
+[Unigram]:...
+Fitting 5 folds for each of 432 candidates, totalling 2160 fits
+[Best Parameters]:
+{'vect__max_df': 0.75, 'clf__eta0': 0.1, 'clf__n_iter': 40, 'vect__max_features': None, 'clf__alpha': 1e-05}
+[Best Score]:
+0.877573333333
+0.5518      excellent    -0.7787          waste
+0.4340        perfect    -0.6439          awful
+0.4060       favorite    -0.5646         boring
+0.3884      wonderful    -0.5457           dull
+0.3776           rare    -0.5132         poorly
+0.3710         superb    -0.5103 disappointment
+0.3688        amazing    -0.4476   disappointed
+0.3677          today    -0.4383  unfortunately
+0.3664         highly    -0.4372       terrible
+0.3475   entertaining    -0.4349  disappointing
+0.3310     definitely    -0.4337       horrible
+0.3307    wonderfully    -0.4336           poor
+0.3288      enjoyable    -0.4203           lame
+0.3270      fantastic    -0.4192            bad
+0.3257      perfectly    -0.4066          badly
+0.3157      brilliant    -0.4056           fail
+0.3088            fun    -0.4005           save
+0.3075      hilarious    -0.3943     ridiculous
+0.3022          enjoy    -0.3809        suppose
+0.2923         simple    -0.3737           bore
+[Unigram]: Done
+[Bigram]:...
+Fitting 5 folds for each of 432 candidates, totalling 2160 fits
+[Best Parameters]:
+{'vect__max_df': 0.75, 'clf__eta0': 0.1, 'clf__n_iter': 60, 'vect__max_features': None, 'clf__alpha': 1e-06}
+[Best Score]:
+0.883066666667
+0.4721      excellent    -0.6213          waste
+0.4133        perfect    -0.6018          awful
+0.3699       one best    -0.5376         boring
+0.3653         superb    -0.5134 disappointment
+0.3639      wonderful    -0.5010         poorly
+0.3626       must see    -0.4874           dull
+0.3547     love movie    -0.4536  disappointing
+0.3430           rare    -0.4394       horrible
+0.3415    wonderfully    -0.4179   disappointed
+0.3391       favorite    -0.4132           lame
+0.3376   entertaining    -0.4069  unfortunately
+0.3334        amazing    -0.3963           poor
+0.3279      enjoyable    -0.3824     ridiculous
+0.3261          today    -0.3803       terrible
+0.3125      perfectly    -0.3754          badly
+0.2995highly recommend    -0.3683           fail
+0.2979      fantastic    -0.3658           save
+0.2881     definitely    -0.3654           bore
+0.2873            fun    -0.3513           lack
+0.2825      brilliant    -0.3401           mess
+[Bigram]: Done
+[Unigram with TFIDF]:...
+Fitting 5 folds for each of 432 candidates, totalling 2160 fits
+[Best Parameters]:
+{'vect__max_df': 0.6, 'clf__eta0': 1.0, 'clf__n_iter': 60, 'vect__max_features': None, 'clf__alpha': 0.0}
+[Best Score]:
+0.878133333333
+4.7518          great    -7.5283            bad
+3.5164      excellent    -4.5188          waste
+3.2286           love    -3.6454          awful
+3.1552           best    -3.3800        nothing
+2.6998          enjoy    -3.2372           poor
+2.6011        perfect    -2.8643       terrible
+2.5621      wonderful    -2.8118         boring
+2.3650       favorite    -2.4852         stupid
+2.2985            fun    -2.4409         minute
+2.2241           well    -2.4293           dull
+1.9750           also    -2.3896        suppose
+1.9459          today    -2.3178       horrible
+1.9255            see    -2.3171           fail
+1.9121          still    -2.2826         script
+1.8915         highly    -2.2586  unfortunately
+1.8231      beautiful    -2.2457           even
+1.8209      brilliant    -2.2200           lack
+1.7958     definitely    -2.2031           save
+1.7795           life    -2.1970        instead
+1.7633        amazing    -2.1709         poorly
+[Unigram with TFIDF]: Done
+[Bigram with TFIDF]:...
+Fitting 5 folds for each of 432 candidates, totalling 2160 fits
+[Best Parameters]:
+{'vect__max_df': 0.6, 'clf__eta0': 1.0, 'clf__n_iter': 60, 'vect__max_features': 10000, 'clf__alpha': 0.0}
+[Best Score]:
+0.879413333333
+4.4486          great    -6.9988            bad
+3.3983      excellent    -4.0706          waste
+3.1058           love    -3.5213          awful
+2.8363           best    -3.2454        nothing
+2.6317          enjoy    -3.1247           poor
+2.5628        perfect    -2.7538       terrible
+2.5077      wonderful    -2.7196         boring
+2.2295            fun    -2.4555         stupid
+2.1433       favorite    -2.3547           dull
+2.0857       one best    -2.3522        suppose
+1.9991           well    -2.3059         minute
+1.9111          today    -2.2785         script
+1.9070           also    -2.2417  unfortunately
+1.8454          still    -2.2281           fail
+1.8349      beautiful    -2.2168       horrible
+1.7854      brilliant    -2.2068           even
+1.7456           life    -2.1794           lack
+1.7234            see    -2.1124            try
+1.7004        amazing    -2.1113           save
+1.6923     definitely    -2.1006     waste time
+[Bigram with TFIDF]: Done
