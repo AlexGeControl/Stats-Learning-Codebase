@@ -22,8 +22,9 @@ Codebase for fast prototyping of statistical learning applications
    Iterative estimation using **Gaussian Process** and **Bayesian Optimization** for automatic hyper-parameter tuning.
 * 08_Markov_Chain_Monte_Carlo
 
-   Point and confidence interval estimation for model parameters using Metropolis-Hasting & Hamiltonian Monte Carlo
+   **Point** and **confidence interval** estimation for model parameters using **Metropolis-Hasting** & **Hamiltonian Monte Carlo**
 * 09_variational_auto_encoder
    
+   Implement **variational auto-encoder** and **conditional variational auto-encoder**. Let Bayesian methods meet deep learning!
    
 ---
